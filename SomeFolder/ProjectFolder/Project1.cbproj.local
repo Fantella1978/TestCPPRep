@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2025/04/03 17:30:46.615,C:\Users\Tester\Documents\Embarcadero\Studio\Projects\TestCPPRep\TFST\Library\CPPB12\SomeUnit.cpp=</Transaction>
-    <Transaction>2025/04/03 17:31:01.537,=C:\Users\Tester\Documents\Embarcadero\Studio\Projects\TestCPPRep\TFST\Library\CPPB12\SomeUnit.cpp</Transaction>
+	<Transactions>
+    <Transaction>2025/04/03 17:30:46.000.615,C:\Users\Tester\Documents\Embarcadero\Studio\Projects\TestCPPRep\TFST\Library\CPPB12\SomeUnit.cpp=</Transaction>
+    <Transaction>2025/04/03 17:31:01.000.537,=C:\Users\Tester\Documents\Embarcadero\Studio\Projects\TestCPPRep\TFST\Library\CPPB12\SomeUnit.cpp</Transaction>
   </Transactions>
 </BorlandProject>

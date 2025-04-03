@@ -19,4 +19,9 @@ object Form1: TForm1
     TabOrder = 0
     Text = 'MaskEdit1'
   end
+  object CustomizeDlg1: TCustomizeDlg
+    StayOnTop = False
+    Left = 184
+    Top = 240
+  end
 end

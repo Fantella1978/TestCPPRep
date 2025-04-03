@@ -11,4 +11,12 @@ object Form1: TForm1
   Font.Name = 'Segoe UI'
   Font.Style = []
   TextHeight = 15
+  object MaskEdit1: TMaskEdit
+    Left = 248
+    Top = 176
+    Width = 121
+    Height = 23
+    TabOrder = 0
+    Text = 'MaskEdit1'
+  end
 end

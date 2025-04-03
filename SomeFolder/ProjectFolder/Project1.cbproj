@@ -192,6 +192,9 @@
             <DependentOn>Unit1.h</DependentOn>
             <BuildOrder>2</BuildOrder>
         </CppCompile>
+        <CppCompile Include="..\..\TFST\Library\CPPB12\SomeUnit - Copy.cpp">
+            <BuildOrder>4</BuildOrder>
+        </CppCompile>
         <CppCompile Include="..\..\TFST\Library\CPPB12\SomeUnit.cpp">
             <BuildOrder>3</BuildOrder>
         </CppCompile>
